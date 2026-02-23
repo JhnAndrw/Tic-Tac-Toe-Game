@@ -43,16 +43,6 @@ TicTacToe/
 
 ---
 
-## 📸 Preview
-
-(Add a screenshot here if you want)
-
-```
-![Game Screenshot](screenshot.png)
-```
-
----
-
 ## 📚 Learning Purpose
 
 This project was created to practice:
